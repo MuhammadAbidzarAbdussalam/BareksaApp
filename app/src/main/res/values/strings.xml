@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bareksa App</string>
+    <string name="tab_text_1">Imbal Hasil</string>
+    <string name="tab_text_2">Dana Kelolaan</string>
+    <string name="comparison">Perbandingan</string>
+
+
+    <string name="week">1W</string>
+    <string name="month">1M</string>
+    <string name="year">1Y</string>
+    <string name="three_years">3Y</string>
+    <string name="five_years">5Y</string>
+    <string name="ten_years">10Y</string>
+    <string name="all">All</string>
+
+
+</resources>
